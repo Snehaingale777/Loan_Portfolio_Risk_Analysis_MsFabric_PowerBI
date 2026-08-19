@@ -28,6 +28,8 @@ Screenshots
 https://github.com/Snehaingale777/Loan_Portfolio_Risk_Analysis_MsFabric_PowerBI/blob/main/df_loans.jpg
 https://github.com/Snehaingale777/Loan_Portfolio_Risk_Analysis_MsFabric_PowerBI/blob/main/notebook_star_schema_cell6.jpg
 https://github.com/Snehaingale777/Loan_Portfolio_Risk_Analysis_MsFabric_PowerBI/blob/main/notebook_star_schema_cell7.jpg
+https://github.com/Snehaingale777/Loan_Portfolio_Risk_Analysis_MsFabric_PowerBI/blob/main/lh_loans.jpg
+
 [add your screenshots here: Dataflow Gen2 filter step, notebook star schema build + validation output, semantic model relationships, RLS role setup, CLS applied indicator, dashboard Overview and Deep Dive pages]
 
 What I'd improve
