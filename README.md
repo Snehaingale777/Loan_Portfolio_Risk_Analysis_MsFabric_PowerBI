@@ -25,6 +25,8 @@ The Overview page has headline KPIs (total loans, total loan amount, average DTI
 The Deep Dive page covers default rate by grade, by income band, and by DTI band, a monthly trend of loan volume against default rate, and a grade-by-income-band matrix with a heatmap. That matrix is the one visual that surfaces something the single-dimension charts can't: Grade G borrowers earning under $40k default at 48.15%, well above either Grade G alone (31.00%) or under-$40k income alone (16.90%) — the risk compounds when both factors are present.
 
 Screenshots
+https://github.com/Snehaingale777/Loan_Portfolio_Risk_Analysis_MsFabric_PowerBI/blob/main/df_loans.jpg
+
 [add your screenshots here: Dataflow Gen2 filter step, notebook star schema build + validation output, semantic model relationships, RLS role setup, CLS applied indicator, dashboard Overview and Deep Dive pages]
 
 What I'd improve
