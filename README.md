@@ -26,6 +26,7 @@ The Deep Dive page covers default rate by grade, by income band, and by DTI band
 
 Screenshots
 https://github.com/Snehaingale777/Loan_Portfolio_Risk_Analysis_MsFabric_PowerBI/blob/main/df_loans.jpg
+https://github.com/Snehaingale777/Loan_Portfolio_Risk_Analysis_MsFabric_PowerBI/blob/main/notebook_star_schema_cell6.jpg
 
 [add your screenshots here: Dataflow Gen2 filter step, notebook star schema build + validation output, semantic model relationships, RLS role setup, CLS applied indicator, dashboard Overview and Deep Dive pages]
 
